@@ -1,0 +1,2 @@
+insert into app_user (user_id, first_name, last_name, date_of_birth, gender, email, password, is_enabled) VALUES (
+'string', 'tomasz', 'wasielewski', 10-10-2020, 'MALE', 'tmszwasielewski@gmail.com', '12341234', true);
